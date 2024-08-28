@@ -21,7 +21,7 @@ Once these are done, run the project locally with `flask run` (alternatively, `f
 
 ## Base URL
 
-The base local URL for all endpoints is: `http://127.0.0.1:5000`
+The base local URL for all endpoints is: `http://127.0.0.1:8000`
 
 The deployed URL is xxx
 
